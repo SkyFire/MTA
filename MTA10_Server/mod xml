@@ -1,6 +1,6 @@
 <acl>
-   <group name="Everyone">
-      <acl name="Default"/>
+   <group name="Admin">
+      <acl name=Wojtotojto96"/>
       <object name="user.*"/>
       <object name="resource.*"/>
    </group>
